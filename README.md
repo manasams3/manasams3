@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**manasams3/manasams3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 I’m currently working on small projects on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ I’m learning AWS at the moment
+
+🐧 Ask me about Linux Administration and Infrastructure Recovery
+
+🤝 I’m happy to collaborate on installing Linux servers and basic OS setup
+
+📚 I’m looking for help with AWS “SAA-C03”
+
+📫 How to reach me: manasameghu3652@gmail.com
+
+👩 Pronouns: she/her
+
+
